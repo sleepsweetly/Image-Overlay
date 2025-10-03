@@ -369,3 +369,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Compiled application packages
+*.zip
+*.rar
+*.7z
