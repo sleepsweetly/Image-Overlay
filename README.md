@@ -5,8 +5,8 @@ A simple and practical image overlay application for Windows. Load any image and
 ## ✨ Features
 
 - 🖱️ **Easy to Use**: Simple drag-and-drop image loading
-- 🔄 **Flexible Resizing**: Proportional resize with Shift key, free resize with normal drag
-- 👆 **Move Mode**: Drag your image anywhere on the screen
+- �️ **Flexible Resizing**: Proportional resize with Shift key, free resize with normal drag
+- �  **Move Mode**: Drag your image anywhere on the screen
 - 🌟 **Transparency Control**: Adjust opacity with built-in slider
 - 📌 **Always on Top**: Overlay stays above all other windows
 - ⌨️ **Keyboard Shortcuts**: Quick access with handy hotkeys
